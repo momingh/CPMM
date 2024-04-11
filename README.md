@@ -5,4 +5,8 @@ Multimodal Item Representations for Recommendation System”
 
 ## Datasets
 
-The original data used in our experiment can be found [here](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html).
+The original Amazon data used in our experiment can be found [here](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html).
+
+We have also prepared the representations obtained from CPMM, as well as the representations from BridgeTower, for you to replicate our results. They are stored in the `./dataset` directory.
+
+## Usage
